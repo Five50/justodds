@@ -1,0 +1,56 @@
+
+.justodds-table {
+    border: 1px solid #f0f0f1;
+    border-spacing: 0;
+    empty-cells: show;
+    border-collapse: collapse;
+    margin-bottom: 1.5rem;
+    display: table;
+    width: 100%;
+    max-width: 960px;
+    overflow: auto;
+}
+
+.justodds-table thead {
+    background-color: #2271b1;
+    color: #FFF;
+    text-align: left;
+    vertical-align: bottom;
+}
+
+.justodds-table th {
+    font-size: inherit;
+    margin: 0;
+    overflow: visible;
+    font-weight: 700;
+}
+
+.justodds-table td,
+.justodds-table th {
+    padding: .65em 1em;
+    font-size: 14px;
+}
+
+.justodds-table td {
+    background-color: #FFF;
+}
+
+.justodds-table tbody tr {
+    border-bottom: 1px solid #f0f0f1;
+}
+
+.justodds-status {
+    display: inline-flex;
+    border-radius: .25em;
+    padding: .25em .65em;
+}
+
+.justodds-status--disconnected {
+    background-color: #ffcdd2;
+    color: #d32f2f;
+}
+
+.justodds-status--connected {
+    background-color: #dcedc8;
+    color: #689f38;
+}

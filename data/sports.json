@@ -1,0 +1,232 @@
+{
+  "1": {
+    "label": "Soccer",
+    "name": "soccer",
+    "handle": "soccer"
+  },
+  "2": {
+    "label": "Horse Racing",
+    "name": "horse-racing",
+    "handle": "horseracingwew"
+  },
+  "3": {
+    "label": "Cricket",
+    "name": "cricket",
+    "handle": "cricket_v2"
+  },
+  "4": {
+    "label": "Greyhounds",
+    "name": "greyhounds",
+    "handle": "greyhounds"
+  },
+  "7": {
+    "label": "Golf",
+    "name": "golf",
+    "handle": "golf_v2"
+  },
+  "8": {
+    "label": "Rugby Union",
+    "name": "rugby-union",
+    "handle": "rugbyunion"
+  },
+  "9": {
+    "label": "Boxing/MMA",
+    "name": "boxing/mma",
+    "handle": "boxing_v2"
+  },
+  "10": {
+    "label": "Formula 1",
+    "name": "formula-1",
+    "handle": "motorracing_v2"
+  },
+  "11": {
+    "label": "Athletics",
+    "name": "athletics",
+    "handle": "athletics_v2"
+  },
+  "12": {
+    "label": "American Football",
+    "name": "american-football",
+    "handle": "americanfootball_v2"
+  },
+  "13": {
+    "label": "Tennis",
+    "name": "tennis",
+    "handle": "tennis_v2"
+  },
+  "14": {
+    "label": "Snooker",
+    "name": "snooker",
+    "handle": "snooker_v2"
+  },
+  "15": {
+    "label": "Darts",
+    "name": "darts",
+    "handle": "darts_v2"
+  },
+  "16": {
+    "label": "Baseball",
+    "name": "baseball",
+    "handle": "baseball_v2"
+  },
+  "17": {
+    "label": "Ice Hockey",
+    "name": "ice-hockey",
+    "handle": "icehockey_v2"
+  },
+  "18": {
+    "label": "Basketball",
+    "name": "basketball",
+    "handle": "basketball_v2"
+  },
+  "19": {
+    "label": "Rugby League",
+    "name": "rugby-league",
+    "handle": "rugbyleague"
+  },
+  "24": {
+    "label": "Speedway",
+    "name": "speedway",
+    "handle": "speedway_v2"
+  },
+  "27": {
+    "label": "Motorbikes",
+    "name": "motorbikes",
+    "handle": "motorbikes_v2"
+  },
+  "35": {
+    "label": "Pool",
+    "name": "pool",
+    "handle": "pool"
+  },
+  "36": {
+    "label": "Australian Rules",
+    "name": "australian-rules",
+    "handle": "australianrules_v2"
+  },
+  "38": {
+    "label": "Cycling",
+    "name": "cycling",
+    "handle": "cycling_v2"
+  },
+  "65": {
+    "label": "NASCAR",
+    "name": "nascar",
+    "handle": "nascar_v2"
+  },
+  "73": {
+    "label": "US Horse Racing",
+    "name": "us-horse-racing",
+    "handle": "ushorseracing_v2"
+  },
+  "75": {
+    "label": "Gaelic Sports",
+    "name": "gaelic-sports",
+    "handle": "gaelicsports"
+  },
+  "78": {
+    "label": "Handball",
+    "name": "handball",
+    "handle": "handball_v2"
+  },
+  "83": {
+    "label": "Futsal",
+    "name": "futsal",
+    "handle": "futsal_v2"
+  },
+  "84": {
+    "label": "Hockey",
+    "name": "hockey",
+    "handle": "hockey_v2"
+  },
+  "88": {
+    "label": "Trotting",
+    "name": "trotting",
+    "handle": "trotting"
+  },
+  "91": {
+    "label": "Volleyball",
+    "name": "volleyball",
+    "handle": "volleyball_v2"
+  },
+  "92": {
+    "label": "Table Tennis",
+    "name": "table-tennis",
+    "handle": "tabletennis"
+  },
+  "94": {
+    "label": "Badminton",
+    "name": "badminton",
+    "handle": "badminton_v2"
+  },
+  "95": {
+    "label": "Beach Volleyball",
+    "name": "beach-volleyball",
+    "handle": "beachvolleyball_v2"
+  },
+  "97": {
+    "label": "Combat Sports",
+    "name": "combat-sports",
+    "handle": "combatsports_v2"
+  },
+  "107": {
+    "label": "Squash",
+    "name": "squash",
+    "handle": "squash"
+  },
+  "108": {
+    "label": "Swimming",
+    "name": "swimming",
+    "handle": "swimming"
+  },
+  "110": {
+    "label": "Water Polo",
+    "name": "water-polo",
+    "handle": "waterpolo_v2"
+  },
+  "113": {
+    "label": "Sailing",
+    "name": "sailing",
+    "handle": "sailing"
+  },
+  "118": {
+    "label": "Alpine Skiing",
+    "name": "alpine-skiing",
+    "handle": "alpineskiing_v2"
+  },
+  "119": {
+    "label": "Biathlon",
+    "name": "biathlon",
+    "handle": "biathlon"
+  },
+  "123": {
+    "label": "Ski Jumping",
+    "name": "ski-jumping",
+    "handle": "skijumping"
+  },
+  "143": {
+    "label": "Lacrosse",
+    "name": "lacrosse",
+    "handle": "lacrosse"
+  },
+  "147": {
+    "label": "Netball",
+    "name": "netball",
+    "handle": "netball_v2"
+  },
+  "148": {
+    "label": "Surfing",
+    "name": "surfing",
+    "handle": "surfing"
+  },
+  "151": {
+    "label": "Esports",
+    "name": "esports",
+    "handle": "esports"
+  },
+  "157": {
+    "label": "Politics",
+    "name": "politics",
+    "handle": "poltics"
+  }
+}
